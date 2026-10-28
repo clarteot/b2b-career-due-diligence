@@ -1,0 +1,29 @@
+# Quick Analysis Template
+
+## Verdict
+**Priority:** A / B / C / D  
+**Fit:** X/10  
+**Confidence:** High / Medium / Low
+
+One concise paragraph explaining whether the opportunity is worth further time.
+
+## What this role really is
+One sentence classification.
+
+## Strongest fit points
+1. …
+2. …
+3. …
+
+## Biggest risks / unknowns
+1. …
+2. …
+3. …
+
+## Best evidence from the candidate
+- Requirement → capability → case
+
+## 3 questions to verify next
+1. …
+2. …
+3. …
